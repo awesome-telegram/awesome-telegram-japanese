@@ -21,4 +21,7 @@
 
 ## Telegram ボット
 
-EOF
+| 名前 | 説明 | Telegram |
+|------|------|----------|
+| Cyber Collector | TikTok（透かしなし）、Instagram Reels/ストーリー、YouTube+Shorts、X/Twitter、Facebook の動画をダウンロードできる無料の Telegram ボット。登録不要、広告なし。[ウェブサイト](https://cybercollector.hitkey.io) | [開く](https://t.me/cybercollectorbot) |
+
